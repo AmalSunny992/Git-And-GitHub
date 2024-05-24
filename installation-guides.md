@@ -49,8 +49,10 @@ To install Git on Linux, follow these steps based on your distribution:
 ## Debian/Ubuntu
 1. Open the terminal.
 2. Update the package list: sudo apt update
-3. Install Git: sudo apt install git
-
+3. Install Git:
+```sh
+   sudo apt install git
+```
 ## Fedora
 1. Open the terminal.
 2. Install Git:
