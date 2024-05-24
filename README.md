@@ -5,7 +5,7 @@ This repository is designed to help you understand the basics of Git and GitHub,
 
 ## Table of Contents
 
-1.[What is Version control systems?](./version-control-systems.md)
+1. [What is Version control systems?](./version-control-systems.md)
 2. [What is Git?](./what-is-git.md)
 3. [What is GitHub?](./what-is-github.md)
 4. [Installation Guides](./installation-guides.md)
