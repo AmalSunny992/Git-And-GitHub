@@ -16,7 +16,7 @@ This repository is designed to help you understand the basics of Git and GitHub,
 6. [Practice Exercises](./exercises)
     - [Exercise 1](./exercises/exercise1.md)
     - [Exercise 2](./exercises/exercise2.md)
-    - [Example Project](./exercises/example-project/project-instructions.md)
+    - [Exercise 3](./exercises/exercise3.md)
 7. [Cheat Sheets](./atlassian-git-cheatsheet.pdf)
 8. [Useful Links](./useful-links.md)
 
