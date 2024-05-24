@@ -24,7 +24,3 @@ This repository is designed to help you understand the basics of Git and GitHub,
 ## License
 
 This project is licensed under the terms of the Apache license. See the [LICENSE](./LICENSE) file for details.
-
-## Acknowledgements
-
-
