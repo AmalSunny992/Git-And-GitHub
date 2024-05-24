@@ -1,91 +1,49 @@
-# gitcommands
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Commonly used Git Commands
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Git and GitHub Learning Repository
 
-Git is an incredibly powerful version control system that plays a vital role in modern software development. For DevOps engineers, understanding Git commands is crucial for managing source code, collaborating with teams, and ensuring smooth deployment processes.
+Welcome to the Git and GitHub Learning Repository! 
+This repository is designed to help you understand the basics of Git and GitHub, including using the Git command line interface (CLI) and collaborating on GitHub.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. git init:
-The `git init` command is used to initialize a new Git repository in a directory. It creates a hidden .git folder, which contains all the necessary files for version control.
+## Table of Contents
 
-Usage:
-$ git init  
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-2. git clone:
-The `git clone` command allows you to create a local copy of a remote repository. It downloads the entire repository, including all branches and commit history.
+1. [What is Git?](./what-is-git.md)
+2. [What is GitHub?](./what-is-github.md)
+3. [Installation Guides](./installation)
+    - [Installing Git on Windows](./installation/install-git-windows.md)
+    - [Installing Git on macOS](./installation/install-git-macos.md)
+    - [Installing Git on Linux](./installation/install-git-linux.md)
+4. [Basic Git Commands](./basic-commands)
+    - [Initializing a Repository](./basic-commands/init.md)
+    - [Cloning a Repository](./basic-commands/clone.md)
+    - [Staging and Committing Changes](./basic-commands/add.md)
+    - [Viewing Commit History](./basic-commands/log.md)
+    - [Branching and Merging](./basic-commands/branch.md)
+    - [Switching Branches](./basic-commands/switch.md)
+    - [Working with Remotes](./basic-commands/remote.md)
+    - [Pushing and Pulling Changes](./basic-commands/push.md)
+5. [GitHub Workflow](./github-workflow)
+    - [Creating a Repository on GitHub](./github-workflow/create-repo.md)
+    - [Forking a Repository](./github-workflow/forking.md)
+    - [Creating Pull Requests](./github-workflow/pull-requests.md)
+6. [Advanced Git Commands](./advanced-commands)
+    - [Rebasing](./advanced-commands/rebase.md)
+    - [Stashing Changes](./advanced-commands/stash.md)
+    - [Tagging Commits](./advanced-commands/tag.md)
+7. [Troubleshooting](./troubleshooting)
+    - [Common Issues](./troubleshooting/common-issues.md)
+    - [Resetting and Reverting Changes](./troubleshooting/reset-revert.md)
+8. [Practice Exercises](./exercises)
+    - [Exercise 1](./exercises/exercise1.md)
+    - [Exercise 2](./exercises/exercise2.md)
+    - [Example Project](./exercises/example-project/project-instructions.md)
+9. [Resources](./resources)
+    - [Useful Links](./resources/useful-links.md)
+    - [Cheat Sheets](./resources/cheat-sheets.md)
 
-Usage:
-$ git clone https://github.com/example/repository.git  
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-3. git add:
-The `git add` command is used to add files to the staging area, preparing them for the next commit. You can specify individual files or use wildcards to add multiple files.
 
-Usage:
-$ git add myfile.py
-$ git add *.py
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4. git commit:
-The `git commit` command creates a new commit, saving the changes made to the files in the staging area. It's essential to provide a descriptive commit message to document the changes.
+## License
 
-Usage:
-$ git commit -m "Add Comment"
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-5. git push:
-The `git push` command is used to upload local commits to a remote repository. It updates the remote repository with your latest changes.
+This project is licensed under the terms of the Apache license. See the [LICENSE](./LICENSE) file for details.
 
-Usage:
-$ git push origin main
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-6. git pull:
-The `git pull` command fetches the latest changes from a remote repository and automatically merges them with your local branch. It's commonly used to update your local repository with the latest changes.
+## Acknowledgements
 
-Usage:
-$ git pull origin main 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-7. git branch:
-The `git branch` command allows you to manage branches within a Git repository. It helps you create, delete, or list branches.
 
-Usage:
-$ git branch new-feature
-$ git branch -d old-feature
-$ git branch  
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-8. git checkout:
-The `git checkout` command is used to switch between branches or restore files to a previous state. It helps you navigate through different versions of your code.
-
-Usage:
-$ git checkout baranchname
-$ git checkout -b baranchname
-$ git checkout HEAD~1 myfile.py 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-9. git merge:
-The `git merge` command combines changes from different branches. It integrates the changes made in one branch into another.
-
-Usage:
-$ git merge branchname 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-10. git log:
-The `git log` command displays a detailed history of commits. It provides information about the author, date, and commit message of each commit.
-
-Usage:
-$ git log        
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-11. git status:
-The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
-
-Usage:
-$ git status      
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-12. git config
-Define author name to be used for all commits in current repo. Devs commonly use --global flag to set config options for current user
-
-Usage:
-git config user.name <name>
-git config user.email <email>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Conclusion:
-Git is an indispensable tool for DevOps engineers, enabling efficient collaboration and version control in software development. By mastering these essential Git commands, will enhance your ability to manage source code and streamline deployment processes. 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
