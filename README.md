@@ -11,7 +11,7 @@ This repository is designed to help you understand the basics of Git and GitHub,
     - [Installing Git on Windows](./installation/install-git-windows.md)
     - [Installing Git on macOS](./installation/install-git-macos.md)
     - [Installing Git on Linux](./installation/install-git-linux.md)
-4. [Basic Git Commands](./basic git commands)
+4. [Basic Git Commands](./basic-git-commands.md)
 5. [GitHub Workflow](./github-workflow)
     - [Creating a Repository on GitHub](./github-workflow/create-repo.md)
     - [Forking a Repository](./github-workflow/forking.md)
