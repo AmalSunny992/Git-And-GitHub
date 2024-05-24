@@ -38,8 +38,9 @@ To install Git on macOS, follow these steps:
 3. Open the downloaded .dmg file and follow the on-screen instructions to install Git.
 
 ## Verify Installation on MacOs
-Open the terminal.
-Type ``` git --version ``` and press Enter. You should see the installed Git version.
+1. Open the terminal.
+2. Type ``` git --version ``` and press Enter. You should see the installed Git version.
+
 You have successfully installed Git on macOS!
 
 # Installing Git on Linux
