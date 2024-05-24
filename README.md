@@ -7,10 +7,7 @@ This repository is designed to help you understand the basics of Git and GitHub,
 
 1. [What is Git?](./what-is-git.md)
 2. [What is GitHub?](./what-is-github.md)
-3. [Installation Guides](./installation)
-    - [Installing Git on Windows](./installation/install-git-windows.md)
-    - [Installing Git on macOS](./installation/install-git-macos.md)
-    - [Installing Git on Linux](./installation/install-git-linux.md)
+3. [Installation Guides](./installation-guides.md)
 4. [Basic Git Commands](./basic-git-commands.md)
 5. [GitHub Workflow](./github-workflow)
     - [Creating a Repository on GitHub](./github-workflow/create-repo.md)
