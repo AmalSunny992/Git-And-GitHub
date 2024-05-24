@@ -24,7 +24,7 @@ To install Git on Windows, follow these steps:
 ## Step 3: Verify Installation
 
 1. Open a command prompt (cmd) or Git Bash.
-2. Type ```sh git --version``` and press Enter. You should see the installed Git version.
+2. Type ``` git --version``` and press Enter. You should see the installed Git version.
 
 You have successfully installed Git on Windows!
 
@@ -39,7 +39,7 @@ To install Git on macOS, follow these steps:
 
 ## Verify Installation on MacOs
 Open the terminal.
-Type ```sh git --version ``` and press Enter. You should see the installed Git version.
+Type ``` git --version ``` and press Enter. You should see the installed Git version.
 You have successfully installed Git on macOS!
 
 # Installing Git on Linux
@@ -71,4 +71,4 @@ To install Git on Linux, follow these steps based on your distribution:
 ```
 ## Verify Installation on linux
 Open the terminal.
-Type ```sh git --version ``` and press Enter. You should see the installed Git version.
+Type ``` git --version ``` and press Enter. You should see the installed Git version.
