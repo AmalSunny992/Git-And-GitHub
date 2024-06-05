@@ -1,3 +1,5 @@
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 # Git and GitHub Learning Repository
 
 Welcome to the Git and GitHub Learning Repository! 
