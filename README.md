@@ -10,7 +10,7 @@ This repository is designed to help you understand the basics of Git and GitHub,
 3. [What is GitHub?](./what-is-github.md)
 4. [Installation Guides](./installation-guides.md)
 5. [Basic Git Commands](./basic-git-commands.md) 
-6. [Practice Exercises](./exercises)
+6. [Practice Exercises](./exercises/practice.md)
     - [Exercise 1](./exercises/exercise1.md)
     - [Exercise 2](./exercises/exercise2.md)
     - [Exercise 3](./exercises/exercise3.md)
