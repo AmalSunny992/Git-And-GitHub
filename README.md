@@ -11,14 +11,15 @@ This repository is designed to help you understand the basics of Git and GitHub,
 2. [What is Git?](./what-is-git.md)
 3. [What is GitHub?](./what-is-github.md)
 4. [Installation Guides](./installation-guides.md)
-5. [Basic Git Commands](./basic-git-commands.md) 
-6. [Practice Exercises](./exercises/practice.md)
+5. [Basic Git Commands](./basic-git-commands.md)
+6. [Common Git Issues and Solutions](Common-Git-Issues-and-Solutions.md) 
+7. [Practice Exercises](./exercises/practice.md)
     - [Exercise 1](./exercises/exercise1.md)
     - [Exercise 2](./exercises/exercise2.md)
     - [Exercise 3](./exercises/exercise3.md)
     - [Exercise 4](./exercises/exercise4.md)
-7. [Cheat Sheets](./atlassian-git-cheatsheet.pdf)
-8. [Useful Links](./useful-links.md)
+8. [Cheat Sheets](./atlassian-git-cheatsheet.pdf)
+9. [Useful Links](./useful-links.md)
 
 
 ## License
