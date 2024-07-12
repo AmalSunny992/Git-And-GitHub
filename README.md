@@ -5,8 +5,6 @@
 Welcome to the Git and GitHub Learning Repository! 
 This repository is designed to help you understand the basics of Git and GitHub, including using the Git command line interface (CLI) and collaborating on GitHub.
 
-Happy Learning!
-
 ## Table of Contents
 
 1. [What is Version control systems?](./version-control-systems.md)
